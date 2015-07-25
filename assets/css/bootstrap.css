@@ -5437,8 +5437,8 @@ button.close {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 100%;
-  height: 100%;
+  max-width: relative;
+  height: fixed;
   line-height: 1;
 }
 .carousel-inner > .active,
