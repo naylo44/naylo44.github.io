@@ -5431,8 +5431,8 @@ button.close {
     display: none;
     -webkit-transition: 0.6s ease-in-out left;
     -moz-transition: 0.6s ease-in-out left;
-    -o-transition: 6.6s ease-in-out left;
-    transition: 3.6s ease-in-out left;
+    -o-transition: 0.6s ease-in-out left;
+    transition: 0.6s ease-in-out left;
 }
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
