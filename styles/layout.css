@@ -6,13 +6,17 @@ body {
 	color:#919191; 
 	background-color:#232323;
 }
-
+/*sous les vidéos*/
 .video-caption {
+	width:100%; 
+	margin-bottom:60px; 
+	padding-bottom:20px; 
+	border-bottom:1px solid #D6D6D6;
 	font-size:12px; 
 	font-family:Georgia, "Arial", Arial, serif; 
 	color:#919191;
 }
-
+/* Pour que le footer sajuste bien */
 .clear:after {
 	content:"."; 
 	display:block; 
@@ -21,38 +25,22 @@ body {
 	visibility:hidden; 
 	line-height:0;
 }
-
 .clear {
 	display:block; 
 	clear:both;
 }
-
-html[xmlns] .clear{
-	display:block;
-
-}
-* html .clear {
-	height:1%;
-}
-
 a {
 	outline:none; 
 	text-decoration:none;
 }
-
-code {
-	font-weight:normal; 
-	font-style:normal; 
-	font-family:Georgia, "Times New Roman", Times, serif;
-}
-
+/*pour que le texte "float" a droite ou gauche*/
 .fl_left {
 	float:left;
 }
 .fl_right {
 	float:right;
 }
-
+/*Layout pour les images*/
 img {
 	margin:0; 
 	padding:0; 
@@ -60,91 +48,56 @@ img {
 	line-height:normal; 
 	vertical-align:middle;
 }
-
+/* images avec bordure tout le tour*/
 .imgholder, .imgl, .imgr {
 	padding:4px; 
 	border:1px solid #D6D6D6; 
 	text-align:center;
 }
-
+/*Image qui float a la gauche*/
 .imgl {
 	float:left; 
 	margin:0 15px 15px 0; 
 	clear:left;
 }
+/*a la droite*/
 .imgr {
 	float:right; 
 	margin:0 0 15px 15px; 
 	clear:right;
 }
-
-/*----------------------------------------------HTML 5 Overrides-------------------------------------*/
-
-address, article, aside, figcaption, figure, footer, header, nav, section {
+address, article, figcaption, figure, footer, header, nav, section {
 	display:block; 
 	margin:0; 
 	padding:0;
 }
-
-q {
-	display:block; 
-	padding:0 10px 8px 10px; 
-	color:#979797; 
-	background-color:#ECECEC; 
-	font-style:italic; 
-	line-height:normal;
-}
-
-q:before {
-	content:'“ '; 
-	font-size:26px;
-}
-q:after {
-	content:' „'; 
-	font-size:26px; 
-	line-height:0;
-}
-
-/* ----------------------------------------------Wrapper-------------------------------------*/
-
-div.wrapper { 
-	display:block; 
-	width:100%; 
-	margin:0; 
-	padding:0; 
-	text-align:left;
-}
-
-.row1, .row1 a {
+.colonne1, .colonne1 a {
 	color:#C0BAB6; 
 	background-color:#333333;
 }
-.row2 {
+.colonne2 {
 	color:#979797; 
 	background-color:#FFFFFF;
 }
-.row2 a {
+.colonne2 a {
 	color:#FF9900; 
 	background-color:#FFFFFF;
 }
-.row3, .row3 a {
+.colonne3, .colonne3 a {
 	color:#919191; 
 	background-color:#232323;
 }
-
 #header, #container, #footer {
 	display:block; 
 	width:960px; 
 	margin:0 auto;
  }
-
 nav ul {
 	margin:0; 
 	padding:0; 
 	list-style:none;
 }
-
-h1, h2, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
 	margin:0; 
 	padding:0; 
 	font-size:22px; 
@@ -152,56 +105,17 @@ h1, h2, h4, h5, h6 {
 	font-style:italic; 
 	line-height:normal;
 }
-
-h3 {
-	margin:0; 
+/*padding special et bold pour h3*/
+h3 { 
 	padding:10px; 
 	font-size:22px; 
 	font-weight:bold; 
 	font-style:italic; 
-	line-height:normal;
-	
 }
-
 address {
 	font-style:normal;
 }
-
-blockquote, q {
-	display:block; 
-	padding:8px 10px; 
-	color:#979797; 
-	background-color:#ECECEC; 
-	font-style:italic; 
-	line-height:normal;
-}
-
-blockquote:before, q:before { 
-	content:'“ '; 
-	font-size:26px;
-}
-
-blockquote:after, q:after {
-	content:' „'; 
-	font-size:26px; 
-	line-height:0;
-}
-
-form, fieldset, legend {
-	margin:0;
-	padding:0; 
-	border:none;
-}
-
-legend {
-	display:none;
-}
-
-input, textarea, select {
-	font-size:12px; 
-	font-family:Georgia,"Times New Roman",Times,serif;
-}
-
+/*1/4, 2/4, 3/4, toute la page (le nombre de pixels, pour pas a avoir a calculer tout le temps*/
 .one_quarter, .two_quarter, .three_quarter, .four_quarter {
 	display:block; 
 	float:left; 
@@ -223,7 +137,7 @@ input, textarea, select {
 	margin-right:0; 
 	clear:both;
 }
-
+/*un tier, 2 tiers, 3 tiers, nb de pixels*/
 .one_third, .two_third, .three_third {
 	display:block; 
 	float:left; 
@@ -241,15 +155,12 @@ input, textarea, select {
 	margin-right:0; 
 	clear:both;
 }
-
 .lastbox {
 	margin-right:0;
 }
-
 #header {
 	padding:20px 0;
 }
-
 #header #hgroup {
 	float:left; 
 	margin:0 0 20px 0;
@@ -265,37 +176,6 @@ input, textarea, select {
 #header #hgroup h2 {
 	font-size:13px;
 }
-
-#header form {
-	display:block; 
-	width:290px; 
-	float:right; 
-	margin:20px 0; 
-	padding:0;
-}
-#header form input {
-	display:block; 
-	float:left; 
-	width:200px;
-	margin:0; 
-	padding:5px; 
-	color:#C0BAB6; 
-	background-color:#232323; 
-	border:1px solid #666666;
-}
-#header form #sf_submit {
-	display:block; 
-	float:right; 
-	width:70px; 
-	font-size:12px; 
-	font-weight:bold; 
-	text-transform:uppercase; 
-	color:#FFFFFF; 
-	background-color:#FF9900; 
-	border:none; 
-	cursor:pointer;
-}
-
 #header nav {
 	display:block; 
 	width:100%; 
@@ -305,31 +185,25 @@ input, textarea, select {
 	background-color:#232323; 
 	clear:both;
 }
-
 #header nav ul {
 	padding:0 20px;
 }
-
 #header nav li {
 	display:inline; 
 	margin-right:25px; 
 	text-transform:uppercase;
 }
-
 #header nav li.last {
 	margin-right:0;
 }
-
 #header nav li a {
 	color:#C0BAB6; 
 	background-color:#232323;
 }
-
 #header nav li a:hover {
 	color:#FF9900; 
 	background-color:#232323;
 }
-
 #container {
 	padding:30px 0;
 }
@@ -338,17 +212,12 @@ input, textarea, select {
 	margin-bottom:30px; 
 	padding:0;
 }
-
 #container .last {
 	margin:0;
 }
-
 #container .more {
 	text-align:right;
 }
-
-/* ------Slider-----*/
-
 #container #slider {
 	width:100%;
 }
@@ -370,7 +239,6 @@ input, textarea, select {
 	background-color:#464646; 
 	line-height:1.6em;
 }
-
 #container #slider figure figcaption a {
 	color:#FF9900; 
 	background-color:#464646;
@@ -381,11 +249,8 @@ input, textarea, select {
 	font-style:italic; 
 	text-transform:none;
 }
-#container #slider figure footer{
+#container #slider figure footer {
 }
-
-/* Main */
-
 #container #intro {
 	width:100%; 
 	margin-bottom:60px; 
@@ -433,7 +298,6 @@ input, textarea, select {
 	text-transform:uppercase; 
 	font-weight:bold;
 }
-
 #container #homepage {
 	display:block; 
 	width:100%; 
@@ -449,11 +313,9 @@ input, textarea, select {
 	font-weight:bold; 
 	text-transform:uppercase;
 }
-
 #container #homepage section footer {
 	clear:both;
 }
-
 #footer{padding:20px 0;}
 #footer p{margin:10; padding:0;}.maps {
 }
