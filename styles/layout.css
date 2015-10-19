@@ -71,10 +71,12 @@ address, article, figcaption, figure, footer, header, nav, section {
 	margin:0; 
 	padding:0;
 }
+/*header */
 .colonne1, .colonne1 a {
 	color:#C0BAB6; 
 	background-color:#333333;
 }
+/*body*/
 .colonne2 {
 	color:#979797; 
 	background-color:#FFFFFF;
@@ -83,6 +85,7 @@ address, article, figcaption, figure, footer, header, nav, section {
 	color:#FF9900; 
 	background-color:#FFFFFF;
 }
+/*footer*/
 .colonne3, .colonne3 a {
 	color:#919191; 
 	background-color:#232323;
@@ -92,11 +95,13 @@ address, article, figcaption, figure, footer, header, nav, section {
 	width:960px; 
 	margin:0 auto;
  }
+ /*ul list pour navigation*/
 nav ul {
 	margin:0; 
 	padding:0; 
 	list-style:none;
 }
+/*titres/header*/
 h1, h2, h3, h4, h5, h6 {
 	margin:0; 
 	padding:0; 
@@ -111,9 +116,6 @@ h3 {
 	font-size:22px; 
 	font-weight:bold; 
 	font-style:italic; 
-}
-address {
-	font-style:normal;
 }
 /*1/4, 2/4, 3/4, toute la page (le nombre de pixels, pour pas a avoir a calculer tout le temps*/
 .one_quarter, .two_quarter, .three_quarter, .four_quarter {
@@ -155,9 +157,12 @@ address {
 	margin-right:0; 
 	clear:both;
 }
+/*margin nulle pour derniere boite*/
 .lastbox {
 	margin-right:0;
 }
+
+/*differentes grosseurs de header*/
 #header {
 	padding:20px 0;
 }
@@ -176,6 +181,7 @@ address {
 #header #hgroup h2 {
 	font-size:13px;
 }
+/*headers pour nav bar*/
 #header nav {
 	display:block; 
 	width:100%; 
@@ -193,6 +199,7 @@ address {
 	margin-right:25px; 
 	text-transform:uppercase;
 }
+/*last li margin nulle*/
 #header nav li.last {
 	margin-right:0;
 }
@@ -200,6 +207,7 @@ address {
 	color:#C0BAB6; 
 	background-color:#232323;
 }
+/*change la couleur quand hover*/
 #header nav li a:hover {
 	color:#FF9900; 
 	background-color:#232323;
@@ -260,12 +268,8 @@ address {
 #container #intro section {
 	width:100%;
 }
-#container #intro section article {
-}
 #container #intro section article h2 {
 	margin-bottom:15px;
-}
-#container #intro section article p {
 }
 #container #intro section article figure ul {
 	display:block; 
@@ -306,16 +310,6 @@ address {
 #container #homepage section {
 	margin-bottom:0;
 }
-#container #homepage section h2.title {
-	margin:0 0 25px 0; 
-	padding:0 0 8px 0; 
-	font-size:16px; 
-	font-weight:bold; 
-	text-transform:uppercase;
-}
 #container #homepage section footer {
 	clear:both;
-}
-#footer{padding:20px 0;}
-#footer p{margin:10; padding:0;}.maps {
 }
