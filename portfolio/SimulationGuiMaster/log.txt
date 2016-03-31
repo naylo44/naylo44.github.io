@@ -1,0 +1,2247 @@
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 31
+Nombre de laitues: 88
+Nombre de ratons: 11
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 610
+Nombre de loups: 13
+Nombre de lapins: 25
+Nombre de laitues: 52
+Nombre de ratons: 13
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 610
+Nombre de loups: 12
+Nombre de lapins: 27
+Nombre de laitues: 48
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 1210
+Nombre de loups: 12
+Nombre de lapins: 23
+Nombre de laitues: 49
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 1810
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 54
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 610
+Nombre de loups: 12
+Nombre de lapins: 23
+Nombre de laitues: 37
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 610
+Nombre de loups: 12
+Nombre de lapins: 21
+Nombre de laitues: 69
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 610
+Nombre de loups: 13
+Nombre de lapins: 33
+Nombre de laitues: 62
+Nombre de ratons: 10
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 610
+Nombre de loups: 12
+Nombre de lapins: 21
+Nombre de laitues: 69
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 1210
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 0
+Nombre de ratons: 11
+Nombre de pandas: 6
+
+Current Timer Tick: 1810
+Nombre de loups: 2
+Nombre de lapins: 2
+Nombre de laitues: 4
+Nombre de ratons: 5
+Nombre de pandas: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 610
+Nombre de loups: 12
+Nombre de lapins: 21
+Nombre de laitues: 69
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 1210
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 0
+Nombre de ratons: 11
+Nombre de pandas: 6
+
+Current Timer Tick: 1810
+Nombre de loups: 2
+Nombre de lapins: 2
+Nombre de laitues: 4
+Nombre de ratons: 5
+Nombre de pandas: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 610
+Nombre de loups: 12
+Nombre de lapins: 21
+Nombre de laitues: 69
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 1210
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 0
+Nombre de ratons: 11
+Nombre de pandas: 6
+
+Current Timer Tick: 1810
+Nombre de loups: 2
+Nombre de lapins: 2
+Nombre de laitues: 4
+Nombre de ratons: 5
+Nombre de pandas: 6
+
+Current Timer Tick: 2410
+Nombre de loups: 0
+Nombre de lapins: 0
+Nombre de laitues: 65
+Nombre de ratons: 1
+Nombre de pandas: 2
+
+Current Timer Tick: 3010
+Nombre de loups: 0
+Nombre de lapins: 0
+Nombre de laitues: 81
+Nombre de ratons: 0
+Nombre de pandas: 2
+
+Current Timer Tick: 3610
+Nombre de loups: 0
+Nombre de lapins: 0
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 2
+
+Current Timer Tick: 4210
+Nombre de loups: 0
+Nombre de lapins: 0
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 0
+
+Current Timer Tick: 4810
+Nombre de loups: 0
+Nombre de lapins: 0
+Nombre de laitues: 90
+Nombre de ratons: 0
+Nombre de pandas: 0
+
+Current Timer Tick: 5410
+Nombre de loups: 0
+Nombre de lapins: 0
+Nombre de laitues: 105
+Nombre de ratons: 0
+Nombre de pandas: 0
+
+Current Timer Tick: 6010
+Nombre de loups: 0
+Nombre de lapins: 0
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 0
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 610
+Nombre de loups: 12
+Nombre de lapins: 21
+Nombre de laitues: 69
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 610
+Nombre de loups: 12
+Nombre de lapins: 21
+Nombre de laitues: 69
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 47
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 48
+Nombre de ratons: 12
+Nombre de pandas: 7
+
+Current Timer Tick: 610
+Nombre de loups: 13
+Nombre de lapins: 31
+Nombre de laitues: 136
+Nombre de ratons: 10
+Nombre de pandas: 5
+
+Current Timer Tick: 1210
+Nombre de loups: 13
+Nombre de lapins: 56
+Nombre de laitues: 0
+Nombre de ratons: 8
+Nombre de pandas: 4
+
+Current Timer Tick: 1810
+Nombre de loups: 2
+Nombre de lapins: 90
+Nombre de laitues: 0
+Nombre de ratons: 5
+Nombre de pandas: 3
+
+Current Timer Tick: 2410
+Nombre de loups: 1
+Nombre de lapins: 351
+Nombre de laitues: 57
+Nombre de ratons: 4
+Nombre de pandas: 2
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 52
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 610
+Nombre de loups: 13
+Nombre de lapins: 31
+Nombre de laitues: 101
+Nombre de ratons: 10
+Nombre de pandas: 5
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 1210
+Nombre de loups: 10
+Nombre de lapins: 30
+Nombre de laitues: 0
+Nombre de ratons: 8
+Nombre de pandas: 4
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 1810
+Nombre de loups: 1
+Nombre de lapins: 15
+Nombre de laitues: 3
+Nombre de ratons: 5
+Nombre de pandas: 2
+Nombre d'ours: 1
+Nombre de caribous: 2
+
+Current Timer Tick: 2410
+Nombre de loups: 0
+Nombre de lapins: 4
+Nombre de laitues: 94
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 1
+Nombre de caribous: 0
+
+Current Timer Tick: 3010
+Nombre de loups: 0
+Nombre de lapins: 3
+Nombre de laitues: 129
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 3610
+Nombre de loups: 0
+Nombre de lapins: 3
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 4210
+Nombre de loups: 0
+Nombre de lapins: 1
+Nombre de laitues: 6
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 4810
+Nombre de loups: 0
+Nombre de lapins: 1
+Nombre de laitues: 130
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 5410
+Nombre de loups: 0
+Nombre de lapins: 1
+Nombre de laitues: 165
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 6010
+Nombre de loups: 0
+Nombre de lapins: 0
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 6610
+Nombre de loups: 0
+Nombre de lapins: 0
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 52
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 52
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 52
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 52
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 52
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 52
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 52
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 52
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 52
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 52
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 52
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 52
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 52
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 48
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 48
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 48
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 48
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 48
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 24
+Nombre de laitues: 48
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 610
+Nombre de loups: 12
+Nombre de lapins: 39
+Nombre de laitues: 89
+Nombre de ratons: 11
+Nombre de pandas: 6
+Nombre d'ours: 3
+Nombre de caribous: 6
+
+Current Timer Tick: 1210
+Nombre de loups: 12
+Nombre de lapins: 55
+Nombre de laitues: 0
+Nombre de ratons: 5
+Nombre de pandas: 6
+Nombre d'ours: 3
+Nombre de caribous: 4
+
+Current Timer Tick: 1810
+Nombre de loups: 0
+Nombre de lapins: 112
+Nombre de laitues: 0
+Nombre de ratons: 2
+Nombre de pandas: 3
+Nombre d'ours: 2
+Nombre de caribous: 0
+
+Current Timer Tick: 2410
+Nombre de loups: 0
+Nombre de lapins: 316
+Nombre de laitues: 48
+Nombre de ratons: 2
+Nombre de pandas: 2
+Nombre d'ours: 2
+Nombre de caribous: 0
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 11
+Nombre de lapins: 17
+Nombre de laitues: 79
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 11
+Nombre de lapins: 17
+Nombre de laitues: 79
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 1210
+Nombre de loups: 11
+Nombre de lapins: 27
+Nombre de laitues: 0
+Nombre de ratons: 9
+Nombre de pandas: 6
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 1810
+Nombre de loups: 1
+Nombre de lapins: 58
+Nombre de laitues: 0
+Nombre de ratons: 4
+Nombre de pandas: 4
+Nombre d'ours: 2
+Nombre de caribous: 0
+
+Current Timer Tick: 2410
+Nombre de loups: 1
+Nombre de lapins: 266
+Nombre de laitues: 71
+Nombre de ratons: 2
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 11
+Nombre de lapins: 17
+Nombre de laitues: 79
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 1210
+Nombre de loups: 11
+Nombre de lapins: 27
+Nombre de laitues: 0
+Nombre de ratons: 9
+Nombre de pandas: 6
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 1810
+Nombre de loups: 1
+Nombre de lapins: 58
+Nombre de laitues: 0
+Nombre de ratons: 4
+Nombre de pandas: 4
+Nombre d'ours: 2
+Nombre de caribous: 0
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 88
+Nombre de ratons: 7
+Nombre de pandas: 6
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 1210
+Nombre de loups: 11
+Nombre de lapins: 16
+Nombre de laitues: 0
+Nombre de ratons: 2
+Nombre de pandas: 5
+Nombre d'ours: 6
+Nombre de caribous: 5
+
+Current Timer Tick: 1810
+Nombre de loups: 0
+Nombre de lapins: 6
+Nombre de laitues: 1
+Nombre de ratons: 1
+Nombre de pandas: 3
+Nombre d'ours: 3
+Nombre de caribous: 0
+
+Current Timer Tick: 2410
+Nombre de loups: 0
+Nombre de lapins: 8
+Nombre de laitues: 52
+Nombre de ratons: 0
+Nombre de pandas: 3
+Nombre d'ours: 1
+Nombre de caribous: 0
+
+Current Timer Tick: 3010
+Nombre de loups: 0
+Nombre de lapins: 4
+Nombre de laitues: 74
+Nombre de ratons: 0
+Nombre de pandas: 2
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 3610
+Nombre de loups: 0
+Nombre de lapins: 3
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 2
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 4210
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 31
+Nombre de ratons: 11
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 4810
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 87
+Nombre de ratons: 7
+Nombre de pandas: 5
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 5410
+Nombre de loups: 11
+Nombre de lapins: 15
+Nombre de laitues: 0
+Nombre de ratons: 2
+Nombre de pandas: 3
+Nombre d'ours: 6
+Nombre de caribous: 4
+
+Current Timer Tick: 6010
+Nombre de loups: 0
+Nombre de lapins: 6
+Nombre de laitues: 6
+Nombre de ratons: 1
+Nombre de pandas: 3
+Nombre d'ours: 2
+Nombre de caribous: 0
+
+Current Timer Tick: 6610
+Nombre de loups: 0
+Nombre de lapins: 8
+Nombre de laitues: 53
+Nombre de ratons: 0
+Nombre de pandas: 3
+Nombre d'ours: 1
+Nombre de caribous: 0
+
+Current Timer Tick: 7210
+Nombre de loups: 0
+Nombre de lapins: 4
+Nombre de laitues: 66
+Nombre de ratons: 0
+Nombre de pandas: 2
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 7810
+Nombre de loups: 0
+Nombre de lapins: 3
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 2
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 8410
+Nombre de loups: 0
+Nombre de lapins: 6
+Nombre de laitues: 1
+Nombre de ratons: 0
+Nombre de pandas: 2
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 610
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 88
+Nombre de ratons: 7
+Nombre de pandas: 6
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 9010
+Nombre de loups: 0
+Nombre de lapins: 15
+Nombre de laitues: 37
+Nombre de ratons: 0
+Nombre de pandas: 1
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 1210
+Nombre de loups: 11
+Nombre de lapins: 16
+Nombre de laitues: 0
+Nombre de ratons: 2
+Nombre de pandas: 5
+Nombre d'ours: 6
+Nombre de caribous: 5
+
+Current Timer Tick: 9610
+Nombre de loups: 0
+Nombre de lapins: 34
+Nombre de laitues: 44
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 1810
+Nombre de loups: 0
+Nombre de lapins: 6
+Nombre de laitues: 1
+Nombre de ratons: 1
+Nombre de pandas: 3
+Nombre d'ours: 3
+Nombre de caribous: 0
+
+Current Timer Tick: 10210
+Nombre de loups: 0
+Nombre de lapins: 45
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 10810
+Nombre de loups: 0
+Nombre de lapins: 72
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 11410
+Nombre de loups: 0
+Nombre de lapins: 131
+Nombre de laitues: 63
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 12010
+Nombre de loups: 0
+Nombre de lapins: 461
+Nombre de laitues: 42
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 88
+Nombre de ratons: 7
+Nombre de pandas: 6
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 1210
+Nombre de loups: 11
+Nombre de lapins: 16
+Nombre de laitues: 0
+Nombre de ratons: 2
+Nombre de pandas: 5
+Nombre d'ours: 6
+Nombre de caribous: 5
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 11
+Nombre de lapins: 17
+Nombre de laitues: 79
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 1210
+Nombre de loups: 11
+Nombre de lapins: 27
+Nombre de laitues: 0
+Nombre de ratons: 9
+Nombre de pandas: 6
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 1810
+Nombre de loups: 1
+Nombre de lapins: 58
+Nombre de laitues: 0
+Nombre de ratons: 4
+Nombre de pandas: 4
+Nombre d'ours: 2
+Nombre de caribous: 0
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 11
+Nombre de lapins: 17
+Nombre de laitues: 79
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 1210
+Nombre de loups: 11
+Nombre de lapins: 27
+Nombre de laitues: 0
+Nombre de ratons: 9
+Nombre de pandas: 6
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 1810
+Nombre de loups: 1
+Nombre de lapins: 58
+Nombre de laitues: 0
+Nombre de ratons: 4
+Nombre de pandas: 4
+Nombre d'ours: 2
+Nombre de caribous: 0
+
+Current Timer Tick: 2410
+Nombre de loups: 1
+Nombre de lapins: 266
+Nombre de laitues: 71
+Nombre de ratons: 2
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 3010
+Nombre de loups: 0
+Nombre de lapins: 1660
+Nombre de laitues: 78
+Nombre de ratons: 1
+Nombre de pandas: 0
+Nombre d'ours: 0
+Nombre de caribous: 0
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 88
+Nombre de ratons: 7
+Nombre de pandas: 6
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 1210
+Nombre de loups: 11
+Nombre de lapins: 16
+Nombre de laitues: 0
+Nombre de ratons: 2
+Nombre de pandas: 5
+Nombre d'ours: 6
+Nombre de caribous: 5
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 24
+Nombre de lapins: 14
+Nombre de laitues: 82
+Nombre de ratons: 9
+Nombre de pandas: 6
+Nombre d'ours: 15
+Nombre de caribous: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 18
+Nombre de lapins: 14
+Nombre de laitues: 70
+Nombre de ratons: 9
+Nombre de pandas: 5
+Nombre d'ours: 10
+Nombre de caribous: 6
+
+Current Timer Tick: 1210
+Nombre de loups: 23
+Nombre de lapins: 15
+Nombre de laitues: 0
+Nombre de ratons: 2
+Nombre de pandas: 4
+Nombre d'ours: 16
+Nombre de caribous: 4
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 18
+Nombre de lapins: 15
+Nombre de laitues: 65
+Nombre de ratons: 9
+Nombre de pandas: 6
+Nombre d'ours: 10
+Nombre de caribous: 5
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 14
+Nombre de laitues: 54
+Nombre de ratons: 8
+Nombre de pandas: 6
+Nombre d'ours: 7
+Nombre de caribous: 6
+
+Current Timer Tick: 1210
+Nombre de loups: 16
+Nombre de lapins: 7
+Nombre de laitues: 0
+Nombre de ratons: 1
+Nombre de pandas: 3
+Nombre d'ours: 8
+Nombre de caribous: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 18
+Nombre de laitues: 82
+Nombre de ratons: 6
+Nombre de pandas: 6
+Nombre d'ours: 8
+Nombre de caribous: 6
+
+Current Timer Tick: 1210
+Nombre de loups: 14
+Nombre de lapins: 20
+Nombre de laitues: 0
+Nombre de ratons: 2
+Nombre de pandas: 5
+Nombre d'ours: 10
+Nombre de caribous: 6
+
+Current Timer Tick: 1810
+Nombre de loups: 8
+Nombre de lapins: 14
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 3
+Nombre d'ours: 7
+Nombre de caribous: 0
+
+Current Timer Tick: 2410
+Nombre de loups: 6
+Nombre de lapins: 18
+Nombre de laitues: 59
+Nombre de ratons: 0
+Nombre de pandas: 2
+Nombre d'ours: 9
+Nombre de caribous: 0
+
+Current Timer Tick: 3010
+Nombre de loups: 7
+Nombre de lapins: 15
+Nombre de laitues: 83
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 16
+Nombre de caribous: 0
+
+Current Timer Tick: 3610
+Nombre de loups: 6
+Nombre de lapins: 18
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 22
+Nombre de caribous: 0
+
+Current Timer Tick: 4210
+Nombre de loups: 7
+Nombre de lapins: 17
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 31
+Nombre de caribous: 0
+
+Current Timer Tick: 4810
+Nombre de loups: 5
+Nombre de lapins: 18
+Nombre de laitues: 38
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 52
+Nombre de caribous: 0
+
+Current Timer Tick: 5410
+Nombre de loups: 6
+Nombre de lapins: 11
+Nombre de laitues: 71
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 97
+Nombre de caribous: 0
+
+Current Timer Tick: 6010
+Nombre de loups: 6
+Nombre de lapins: 14
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 164
+Nombre de caribous: 0
+
+Current Timer Tick: 6610
+Nombre de loups: 6
+Nombre de lapins: 12
+Nombre de laitues: 0
+Nombre de ratons: 0
+Nombre de pandas: 0
+Nombre d'ours: 304
+Nombre de caribous: 0
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 19
+Nombre de laitues: 88
+Nombre de ratons: 7
+Nombre de pandas: 7
+Nombre d'ours: 7
+Nombre de caribous: 6
+
+Current Timer Tick: 1210
+Nombre de loups: 16
+Nombre de lapins: 26
+Nombre de laitues: 0
+Nombre de ratons: 2
+Nombre de pandas: 4
+Nombre d'ours: 8
+Nombre de caribous: 4
+
+Current Timer Tick: 1810
+Nombre de loups: 6
+Nombre de lapins: 28
+Nombre de laitues: 4
+Nombre de ratons: 1
+Nombre de pandas: 2
+Nombre d'ours: 6
+Nombre de caribous: 0
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 18
+Nombre de laitues: 92
+Nombre de ratons: 12
+Nombre de pandas: 11
+Nombre d'ours: 7
+Nombre de caribous: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 22
+Nombre de laitues: 136
+Nombre de ratons: 14
+Nombre de pandas: 10
+Nombre d'ours: 5
+Nombre de caribous: 9
+
+Current Timer Tick: 1210
+Nombre de loups: 16
+Nombre de lapins: 16
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 12
+Nombre d'ours: 6
+Nombre de caribous: 12
+
+Current Timer Tick: 1810
+Nombre de loups: 7
+Nombre de lapins: 17
+Nombre de laitues: 0
+Nombre de ratons: 9
+Nombre de pandas: 11
+Nombre d'ours: 6
+Nombre de caribous: 7
+
+Current Timer Tick: 2410
+Nombre de loups: 5
+Nombre de lapins: 23
+Nombre de laitues: 93
+Nombre de ratons: 8
+Nombre de pandas: 12
+Nombre d'ours: 3
+Nombre de caribous: 6
+
+Current Timer Tick: 3010
+Nombre de loups: 6
+Nombre de lapins: 21
+Nombre de laitues: 163
+Nombre de ratons: 8
+Nombre de pandas: 11
+Nombre d'ours: 3
+Nombre de caribous: 6
+
+Current Timer Tick: 3610
+Nombre de loups: 5
+Nombre de lapins: 25
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 11
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 4210
+Nombre de loups: 5
+Nombre de lapins: 38
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 10
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 4810
+Nombre de loups: 5
+Nombre de lapins: 40
+Nombre de laitues: 155
+Nombre de ratons: 12
+Nombre de pandas: 9
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 22
+Nombre de laitues: 136
+Nombre de ratons: 14
+Nombre de pandas: 10
+Nombre d'ours: 5
+Nombre de caribous: 9
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 22
+Nombre de laitues: 136
+Nombre de ratons: 14
+Nombre de pandas: 10
+Nombre d'ours: 5
+Nombre de caribous: 9
+
+Current Timer Tick: 1210
+Nombre de loups: 16
+Nombre de lapins: 16
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 12
+Nombre d'ours: 6
+Nombre de caribous: 12
+
+Current Timer Tick: 1810
+Nombre de loups: 7
+Nombre de lapins: 17
+Nombre de laitues: 0
+Nombre de ratons: 9
+Nombre de pandas: 11
+Nombre d'ours: 6
+Nombre de caribous: 7
+
+Current Timer Tick: 2410
+Nombre de loups: 5
+Nombre de lapins: 23
+Nombre de laitues: 93
+Nombre de ratons: 8
+Nombre de pandas: 12
+Nombre d'ours: 3
+Nombre de caribous: 6
+
+Current Timer Tick: 3010
+Nombre de loups: 6
+Nombre de lapins: 21
+Nombre de laitues: 163
+Nombre de ratons: 8
+Nombre de pandas: 11
+Nombre d'ours: 3
+Nombre de caribous: 6
+
+Current Timer Tick: 3610
+Nombre de loups: 5
+Nombre de lapins: 25
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 11
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 4210
+Nombre de loups: 5
+Nombre de lapins: 38
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 10
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 4810
+Nombre de loups: 5
+Nombre de lapins: 40
+Nombre de laitues: 155
+Nombre de ratons: 12
+Nombre de pandas: 9
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 5410
+Nombre de loups: 6
+Nombre de lapins: 74
+Nombre de laitues: 148
+Nombre de ratons: 13
+Nombre de pandas: 11
+Nombre d'ours: 3
+Nombre de caribous: 6
+
+Current Timer Tick: 6010
+Nombre de loups: 6
+Nombre de lapins: 191
+Nombre de laitues: 0
+Nombre de ratons: 11
+Nombre de pandas: 14
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 6610
+Nombre de loups: 6
+Nombre de lapins: 433
+Nombre de laitues: 0
+Nombre de ratons: 11
+Nombre de pandas: 9
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 7210
+Nombre de loups: 5
+Nombre de lapins: 1128
+Nombre de laitues: 56
+Nombre de ratons: 8
+Nombre de pandas: 9
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 7810
+Nombre de loups: 13
+Nombre de lapins: 11
+Nombre de laitues: 64
+Nombre de ratons: 12
+Nombre de pandas: 9
+Nombre d'ours: 5
+Nombre de caribous: 8
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 22
+Nombre de laitues: 136
+Nombre de ratons: 14
+Nombre de pandas: 10
+Nombre d'ours: 5
+Nombre de caribous: 9
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 22
+Nombre de laitues: 136
+Nombre de ratons: 14
+Nombre de pandas: 10
+Nombre d'ours: 5
+Nombre de caribous: 9
+
+Current Timer Tick: 1210
+Nombre de loups: 16
+Nombre de lapins: 16
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 12
+Nombre d'ours: 6
+Nombre de caribous: 12
+
+Current Timer Tick: 1810
+Nombre de loups: 7
+Nombre de lapins: 17
+Nombre de laitues: 0
+Nombre de ratons: 9
+Nombre de pandas: 11
+Nombre d'ours: 6
+Nombre de caribous: 7
+
+Current Timer Tick: 2410
+Nombre de loups: 5
+Nombre de lapins: 23
+Nombre de laitues: 93
+Nombre de ratons: 8
+Nombre de pandas: 12
+Nombre d'ours: 3
+Nombre de caribous: 6
+
+Current Timer Tick: 3010
+Nombre de loups: 6
+Nombre de lapins: 21
+Nombre de laitues: 163
+Nombre de ratons: 8
+Nombre de pandas: 11
+Nombre d'ours: 3
+Nombre de caribous: 6
+
+Current Timer Tick: 3610
+Nombre de loups: 5
+Nombre de lapins: 25
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 11
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 4210
+Nombre de loups: 5
+Nombre de lapins: 38
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 10
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 4810
+Nombre de loups: 5
+Nombre de lapins: 40
+Nombre de laitues: 155
+Nombre de ratons: 12
+Nombre de pandas: 9
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 22
+Nombre de laitues: 136
+Nombre de ratons: 14
+Nombre de pandas: 10
+Nombre d'ours: 5
+Nombre de caribous: 9
+
+Current Timer Tick: 1210
+Nombre de loups: 16
+Nombre de lapins: 16
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 12
+Nombre d'ours: 6
+Nombre de caribous: 12
+
+Current Timer Tick: 1810
+Nombre de loups: 7
+Nombre de lapins: 17
+Nombre de laitues: 0
+Nombre de ratons: 9
+Nombre de pandas: 11
+Nombre d'ours: 6
+Nombre de caribous: 7
+
+Current Timer Tick: 2410
+Nombre de loups: 5
+Nombre de lapins: 23
+Nombre de laitues: 93
+Nombre de ratons: 8
+Nombre de pandas: 12
+Nombre d'ours: 3
+Nombre de caribous: 6
+
+Current Timer Tick: 3010
+Nombre de loups: 6
+Nombre de lapins: 21
+Nombre de laitues: 163
+Nombre de ratons: 8
+Nombre de pandas: 11
+Nombre d'ours: 3
+Nombre de caribous: 6
+
+Current Timer Tick: 3610
+Nombre de loups: 5
+Nombre de lapins: 25
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 11
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 4210
+Nombre de loups: 5
+Nombre de lapins: 38
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 10
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 4810
+Nombre de loups: 5
+Nombre de lapins: 40
+Nombre de laitues: 155
+Nombre de ratons: 12
+Nombre de pandas: 9
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 5410
+Nombre de loups: 6
+Nombre de lapins: 74
+Nombre de laitues: 148
+Nombre de ratons: 13
+Nombre de pandas: 11
+Nombre d'ours: 3
+Nombre de caribous: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 22
+Nombre de laitues: 136
+Nombre de ratons: 14
+Nombre de pandas: 10
+Nombre d'ours: 5
+Nombre de caribous: 9
+
+Current Timer Tick: 10
+Nombre de loups: 2
+Nombre de lapins: 5
+Nombre de laitues: 7
+Nombre de ratons: 4
+Nombre de pandas: 7
+Nombre d'ours: 9
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 4
+Nombre de lapins: 9
+Nombre de laitues: 133
+Nombre de ratons: 7
+Nombre de pandas: 11
+Nombre d'ours: 10
+Nombre de caribous: 8
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 15
+Nombre de laitues: 34
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 19
+Nombre de laitues: 177
+Nombre de ratons: 16
+Nombre de pandas: 11
+Nombre d'ours: 6
+Nombre de caribous: 8
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 22
+Nombre de laitues: 136
+Nombre de ratons: 14
+Nombre de pandas: 10
+Nombre d'ours: 5
+Nombre de caribous: 9
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 22
+Nombre de laitues: 136
+Nombre de ratons: 14
+Nombre de pandas: 10
+Nombre d'ours: 5
+Nombre de caribous: 9
+
+Current Timer Tick: 1210
+Nombre de loups: 16
+Nombre de lapins: 16
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 12
+Nombre d'ours: 6
+Nombre de caribous: 12
+
+Current Timer Tick: 1810
+Nombre de loups: 7
+Nombre de lapins: 17
+Nombre de laitues: 0
+Nombre de ratons: 9
+Nombre de pandas: 11
+Nombre d'ours: 6
+Nombre de caribous: 7
+
+Current Timer Tick: 2410
+Nombre de loups: 5
+Nombre de lapins: 23
+Nombre de laitues: 93
+Nombre de ratons: 8
+Nombre de pandas: 12
+Nombre d'ours: 3
+Nombre de caribous: 6
+
+Current Timer Tick: 3010
+Nombre de loups: 6
+Nombre de lapins: 21
+Nombre de laitues: 163
+Nombre de ratons: 8
+Nombre de pandas: 11
+Nombre d'ours: 3
+Nombre de caribous: 6
+
+Current Timer Tick: 3610
+Nombre de loups: 5
+Nombre de lapins: 25
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 11
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 4210
+Nombre de loups: 5
+Nombre de lapins: 38
+Nombre de laitues: 0
+Nombre de ratons: 10
+Nombre de pandas: 10
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 4810
+Nombre de loups: 5
+Nombre de lapins: 40
+Nombre de laitues: 155
+Nombre de ratons: 12
+Nombre de pandas: 9
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 5410
+Nombre de loups: 6
+Nombre de lapins: 74
+Nombre de laitues: 148
+Nombre de ratons: 13
+Nombre de pandas: 11
+Nombre d'ours: 3
+Nombre de caribous: 6
+
+Current Timer Tick: 6010
+Nombre de loups: 6
+Nombre de lapins: 191
+Nombre de laitues: 0
+Nombre de ratons: 11
+Nombre de pandas: 14
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 6610
+Nombre de loups: 6
+Nombre de lapins: 433
+Nombre de laitues: 0
+Nombre de ratons: 11
+Nombre de pandas: 9
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 7210
+Nombre de loups: 5
+Nombre de lapins: 1128
+Nombre de laitues: 56
+Nombre de ratons: 8
+Nombre de pandas: 9
+Nombre d'ours: 3
+Nombre de caribous: 5
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
+Current Timer Tick: 610
+Nombre de loups: 14
+Nombre de lapins: 22
+Nombre de laitues: 136
+Nombre de ratons: 14
+Nombre de pandas: 10
+Nombre d'ours: 5
+Nombre de caribous: 9
+
+Current Timer Tick: 1210
+Nombre de loups: 13
+Nombre de lapins: 19
+Nombre de laitues: 65
+Nombre de ratons: 14
+Nombre de pandas: 9
+Nombre d'ours: 5
+Nombre de caribous: 8
+
+Current Timer Tick: 1810
+Nombre de loups: 10
+Nombre de lapins: 14
+Nombre de laitues: 0
+Nombre de ratons: 9
+Nombre de pandas: 10
+Nombre d'ours: 6
+Nombre de caribous: 6
+
+Current Timer Tick: 10
+Nombre de loups: 12
+Nombre de lapins: 14
+Nombre de laitues: 29
+Nombre de ratons: 12
+Nombre de pandas: 7
+Nombre d'ours: 5
+Nombre de caribous: 6
+
