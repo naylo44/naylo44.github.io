@@ -1,0 +1,93 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Robot', sans-serif;
+	/*color: #000000;*/
+}
+
+html {
+	width: 74%;
+}
+
+/*http://enjoycss.com/code/*/
+header {
+
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 100%;
+  height: 100px;
+  border: none;
+  font: normal 100%/normal Arial, Helvetica, sans-serif;
+  color: rgb(255, 255, 255);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: -webkit-linear-gradient(63deg, rgb(21,21,21) 5px, rgba(0,0,0,0) 5px), -webkit-linear-gradient(-117deg, rgb(21,21,21) 5px, rgba(0,0,0,0) 5px), -webkit-linear-gradient(63deg, rgb(34,34,34) 5px, rgba(0,0,0,0) 5px), -webkit-linear-gradient(-117deg, rgb(34,34,34) 5px, rgba(0,0,0,0) 5px), -webkit-linear-gradient(0deg, rgb(27,27,27) 10px, rgba(0,0,0,0) 10px), -webkit-linear-gradient(-90deg, rgb(29,29,29) 25%, rgb(26,26,26) 25%, rgb(26,26,26) 50%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 75%, rgb(36,36,36) 75%, rgb(36,36,36) 100%), rgb(19, 19, 19);
+  background: -moz-linear-gradient(27deg, rgb(21,21,21) 5px, rgba(0,0,0,0) 5px), -moz-linear-gradient(207deg, rgb(21,21,21) 5px, rgba(0,0,0,0) 5px), -moz-linear-gradient(27deg, rgb(34,34,34) 5px, rgba(0,0,0,0) 5px), -moz-linear-gradient(207deg, rgb(34,34,34) 5px, rgba(0,0,0,0) 5px), -moz-linear-gradient(90deg, rgb(27,27,27) 10px, rgba(0,0,0,0) 10px), -moz-linear-gradient(180deg, rgb(29,29,29) 25%, rgb(26,26,26) 25%, rgb(26,26,26) 50%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 75%, rgb(36,36,36) 75%, rgb(36,36,36) 100%), rgb(19, 19, 19);
+  background: linear-gradient(27deg, rgb(21,21,21) 5px, rgba(0,0,0,0) 5px), linear-gradient(207deg, rgb(21,21,21) 5px, rgba(0,0,0,0) 5px), linear-gradient(27deg, rgb(34,34,34) 5px, rgba(0,0,0,0) 5px), linear-gradient(207deg, rgb(34,34,34) 5px, rgba(0,0,0,0) 5px), linear-gradient(90deg, rgb(27,27,27) 10px, rgba(0,0,0,0) 10px), linear-gradient(180deg, rgb(29,29,29) 25%, rgb(26,26,26) 25%, rgb(26,26,26) 50%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 75%, rgb(36,36,36) 75%, rgb(36,36,36) 100%), rgb(19, 19, 19);
+  background-position: 0 5px, 10px 0, 0 10px, 10px 5px, 0 0, 0 0;
+  -webkit-background-origin: padding-box;
+  background-origin: padding-box;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-background-size: 20px 20px;
+  background-size: 20px 20px;
+	color: #rgb(156, 156, 156);
+	padding-top: 40px;
+	padding-left: 30px;
+	position: fixed;
+}
+
+
+/*http://www.bypeople.com/css-dark-noise-pattern/*/
+html, body {
+  background-color:#444;
+}
+.noise {
+    z-index: 1;
+}
+
+.noise:after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABIFJREFUeNrEWk1rGzEQXWuX0prQECcQYjAUFvbqs3NMfnz+QyDXQiBpaA+hPRhXMpIrT97MPKXQGhRJu/pYab7ezCR0XTfFMu52u67Uso2eyffyXS7zUpy1Fi37yu9NdYh/tqk1m83GUst26aP3pY4LPtTjUj/Xr6nIder58f232F7I57Itf2WP0ums27AooFBBXUPeYtVe5DIiqmscc7QGsQk8gEdu60OsD9P6HqsNFukACzxIFkLklqxRsdmDfK6tZY0F8/qOEeh86ncpBUtANXZkuaD+tllulN9LOnA+9YsmbPJ20Lj6eRmPFAKaV1MRUVb292uIU5/l9hkrtJ5MaVRA81hKozlB3MaLvBlNBSP50W5ZzOkR5czbBnIi5WWQgxHroPdoPCnMW+WA1iVM8d09EvoyZtD42vpAjRKIly3+1+aAfbcOlf/Ykc1ms8x8t9JkwtIyjC1h+b5x3aRNp4OM3N3dfapPe3t7e2ppLUQVC+oUG6TxvaatCHu13Rfl5CtPk7BwhrEpFvRpmMcZtKp9zn50CxtphxDrn5UC5vE3lNvn5UCsTHgHYICrZ+c6dtP4+5zrj7Gc5vbSA4kWSs7lKj+/sgQbUOboICHpaM0wKbr+Zyzfc/sro16lahXteV5/7sGd5+fnkN8tkCmgoHuhSqFMTRHvFhlgKN5N3lpyz8GD4B5I1CwtMnCmQTMQBeIUqfIHyxojy2v5Ih4CljbFWLeGMX0NTxT27wNaqPU25AfWxk+TO+25IqOTBuVLO8gbQrcshUpujCy2FzBg9spj95a7nodYubNwFfLEEiZjBbcea6lgw8eZNNUux82KeWc8MVYONLnQ5mqs7cjRkQgEJn6E5ODm5uY1CZkXB5P2RMqPxqZWfAvKLAshvBAQG/ph3NtGZHAc1/JCoP8RKI7MmJDJNrf8AOm/a2TXQqKIHbwoDFLp6dn19fVS04QjCjJ70T4POnhxMgcKja1RSai1LPCoxagYO+FpJU97WXZpYDZiLHyttTQoAVhvqrMB1fheBhyYgB9kh6enpwC1A6kEPEPGuMG1QfTYc5YbEN16lPHCqchHsVC0pyjMb9mfxrCYbDxX28zSVkZ0XVr9y9h/THXsniAEERi44IHKFtVqwXkUuMv9x7rWZG782+wU4m3P8jNF7HlpqfmAgtUSMkuojqC7YIt7Vp03tE+kRnwTMm1JtVlazDNujS7D2OIyBAbtahESLdvLQBwme5vCuEg20b4H9fuv/AZrfS0LYM19k0Ns/WcBFp6zGeDGtPgkFUpgsrmpXq/XvzS1ivIbKPiA1KyFnFFkv4qybOu1BtZlVUlahW8AS6zys1XsfrCsuZX08VLXB1dXE1SN56ubvc+qtrdQQXSLf2hC68mBlsc0XV0mD86ESKdpWuX+qhTWO2RVOtjf99M9J6fV1fWUxXuSSoFJcWkyY+EsLTuLWNBLuKJnUs6CyBteXVxcfDHy2n0JASH5QTZF8PwWpRs8h83735RDEFsTbMZAeinp6gK6ojKJ8Z2kuob5yrzfAgwASaYfY2UgQSYAAAAASUVORK5CYII=);
+
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+    filter: alpha(opacity=60);
+    opacity: 0.6;
+}
+
+
+
+/*.page-wrapper div,*/.summary, .preamble, .explanation, .participation, .benefits, .requirements {
+	background-color: white;
+	margin: auto;
+	width: 300px;
+	margin-top: 25px;
+	float: left;
+}
+
+.summary {
+	margin-top: 150px;
+}
+
+
+.sidebar {
+	padding-left: 75%;
+	padding-right: 20px;
+	padding-top: 150px;
+	float:right;
+	position: fixed;
+	position: fixed;
+}
+
+div:hover {
+	transform: rotate(360deg);
+}
