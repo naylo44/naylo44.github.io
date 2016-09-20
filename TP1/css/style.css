@@ -1,27 +1,27 @@
 @import 'https://fonts.googleapis.com/css?family=Roboto';
+/* Font Roboto que j'aime bien */
+
 * {
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    /*color: #000000;*/
 }
+/* Couleur pastel bleu, dans le style recommandé par Google */
+
 body {
     background-color: #2196F3;
 }
+/* Position du header - la barre du haut a position fixed */
+
 header {
     width: 100%;
     background-color: #3E50B4;
-    /*background-color: #1976D2*/
-
     color: white;
     padding-top: 40px;
     padding-bottom: 10px;
     padding-left: 25px;
     box-shadow: 0px 7px 5px 0px rgba(0, 0, 0, 0.25);
     position: fixed;
-    /*margin-top: 10px;
-	margin-bottom: 10px;*/
-
     z-index: 100;
     text-indent: 1000%;
     white-space: nowrap;
@@ -30,151 +30,94 @@ header {
     background-size: auto 80%;
     background-position: 10%;
     background-repeat: no-repeat;
-    /*padding-bottom: 5%;*/
     /*Oui, 100 de z-index cause why not?*/
 }
-.preamble h3 {
-    text-indent: 1000%;
-    white-space: nowrap;
-    overflow: hidden;
-    background-image: url(../images/header1.svg);
-    background-size: 100%;
-    background-repeat: no-repeat;
-    padding-bottom: 5%;
-}
-.explanation h3 {
-    text-indent: 1000%;
-    white-space: nowrap;
-    overflow: hidden;
-    background-image: url(../images/header2.svg);
-    background-size: 100%;
-    background-repeat: no-repeat;
-    padding-bottom: 5%;
-}
-.participation h3 {
-    text-indent: 1000%;
-    white-space: nowrap;
-    overflow: hidden;
-    background-image: url(../images/header3.svg);
-    background-size: 100%;
-    background-repeat: no-repeat;
-    padding-bottom: 5%;
-}
-.benefits h3 {
-    text-indent: 1000%;
-    white-space: nowrap;
-    overflow: hidden;
-    background-image: url(../images/header4.svg);
-    background-size: 100%;
-    background-repeat: no-repeat;
-    padding-bottom: 5%;
-}
+/*    ICI je camoufle les h3 et les remplace avec les images que
+      j'ai créées */
+
+.preamble h3,
+.explanation h3,
+.participation h3,
+.benefits h3,
 .requirements h3 {
     text-indent: 1000%;
     white-space: nowrap;
     overflow: hidden;
-    background-image: url(../images/header5.svg);
     background-size: 100%;
     background-repeat: no-repeat;
     padding-bottom: 5%;
 }
-.design-selection h3 {
-    text-indent: 1000%;
-    white-space: nowrap;
-    overflow: hidden;
-    background-image: url(../images/header6.svg);
-    background-size: 350px;
-    background-repeat: no-repeat;
-    padding-bottom: 10px;
-}
-.design-archives h3 {
-    text-indent: 1000%;
-    white-space: nowrap;
-    overflow: hidden;
-    background-image: url(../images/header7.svg);
-    background-size: 350px;
-    padding-bottom: 10px;
-    background-repeat: no-repeat;
-}
+.design-selection h3,
+.design-archives h3,
 .zen-resources h3 {
     text-indent: 1000%;
     white-space: nowrap;
     overflow: hidden;
-    background-image: url(../images/header8.svg);
     background-size: 350px;
     padding-bottom: 10px;
     background-repeat: no-repeat;
 }
-/*.intro {
-	background-color: #2196F3;
-}*/
+.preamble h3 {
+    background-image: url(../images/header1.svg);
+}
+.explanation h3 {
+    background-image: url(../images/header2.svg);
+}
+.participation h3 {
+    background-image: url(../images/header3.svg);
+}
+.benefits h3 {
+    background-image: url(../images/header4.svg);
+}
+.requirements h3 {
+    background-image: url(../images/header5.svg);
+}
+.design-selection h3 {
+    background-image: url(../images/header6.svg);
+}
+.design-archives h3 {
+    background-image: url(../images/header7.svg);
+}
+.zen-resources h3 {
+    background-image: url(../images/header8.svg);
+}
+/* Ici je set up la premiere 'carte' du Material Design */
+/* A partir d'ici, presque tous les elements possèdent un box-shadow
+   Pour le theme Material */
 
 .summary {
     margin: auto;
-    /*margin-top: 25px;*/
-
     margin-top: 130px;
     background-color: white;
     width: 350px;
     padding: 12px;
-    /*float: left;*/
-    /*display: flex;*/
-
     display: inline-block;
     box-shadow: 0px 0px 21px 6px rgba(0, 0, 0, 0.25);
 }
-.preamble {
-    margin: auto;
-    margin-top: 25px;
-    background-color: white;
-    width: 350px;
-    padding: 12px;
-    /*float: left;*/
-    /*display: flex;*/
+/* Ici, je donne le style de cartes au reste du document*/
 
-    box-shadow: 0px 0px 21px 6px rgba(0, 0, 0, 0.25);
-}
+.preamble,
 .explanation,
 .participation,
 .benefits,
-.requirements {
-    margin: auto;
-    margin-top: 25px;
-    background-color: white;
-    width: 350px;
-    padding: 12px;
-    /*float: left;*/
-    /*display: flex;*/
-
-    box-shadow: 0px 0px 21px 6px rgba(0, 0, 0, 0.25);
-}
-.sidebar {
-    margin: auto;
-    margin-top: 25px;
-    background-color: white;
-    width: 350px;
-    padding: 12px;
-    /*float: left;*/
-    /*display: flex;*/
-
-    box-shadow: 0px 0px 21px 6px rgba(0, 0, 0, 0.25);
-    margin-bottom: 40px;
-}
+.requirements,
+.sidebar,
 footer {
     margin: auto;
     margin-top: 25px;
     background-color: white;
     width: 350px;
     padding: 12px;
-    /*float: left;*/
-    /*display: flex;*/
-
     box-shadow: 0px 0px 21px 6px rgba(0, 0, 0, 0.25);
 }
+.sidebar {
+    margin-bottom: 40px;
+}
+/* C'est avec le display:flex que j'arrange mes colonnes */
+
 .intro {
     display: flex;
     flex-direction: column;
-    ;
     flex-wrap: nowrap;
 }
 .main {
@@ -182,6 +125,8 @@ footer {
     flex-direction: column;
     flex-wrap: nowrap;
 }
+/* Petit bout de code pour le grandissement sur le hover */
+
 .summary:hover,
 .preamble:hover,
 .explanation:hover,
@@ -196,6 +141,9 @@ li {
     list-style: none;
     display: inline-block;
 }
+/* J'ai ajouté des images sur les extra car je trouvais qu'il manquait d'éléments
+   graphiques à mon site. */
+
 .extra1,
 .extra2,
 .extra3,
@@ -204,41 +152,28 @@ li {
     width: 20%;
     float: left;
     height: 200px;
-    /*Leger test pour faire apparaitre les trucs. Jvais rajouter des images n shit*/
-
     background-color: rgb(69, 203, 179);
-    /*margin-bottom: 200px;*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px;
 }
 .extra1 {
     background-image: url(../images/materialdesign.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 200px;
 }
 .extra2 {
     background-image: url(../images/materialdesign2.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 200px;
 }
 .extra3 {
     background-image: url(../images/materialdesign3.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 200px;
 }
 .extra4 {
     background-image: url(../images/Linux1.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 200px;
 }
 .extra5 {
     background-image: url(../images/Penguin1.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 200px;
 }
+/* Bout de code pour avoir le grandissement on hover des images*/
+
 .extra1:hover,
 .extra2:hover,
 .extra3:hover,
@@ -246,6 +181,8 @@ li {
 .extra5:hover {
     transform: scale(2);
     position: relative;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 .extra1:hover {
     left: 80px;
@@ -256,16 +193,37 @@ li {
 .extra5:hover {
     right: 90px;
 }
+/* Centrer les listes*/
+
 ul {
     text-align: center;
 }
 ul li {
-    display: inline-block;
+    display: block;
     margin: auto;
 }
-/*Pour ecrans de 820 a 1135 px*/
+/* Change les propriétés des liens */
+
+a:link {
+    color: green;
+}
+a:visited {
+    color: magenta;
+}
+a:hover {
+    color: red;
+}
+/* Corail, pourquoi pas? Anyway, c'est pas comme si j'avais
+   du goût côté couleur... */
+
+a:active {
+    color: coral;
+}
+/*Pour ecrans de 820 a 1135 px - 2 colonnes*/
 
 @media (min-width: 820px) and (max-width: 1135px) {
+    /* Bout de code pour avoir plusieurs row alignées */
+
     .main,
     .intro,
     footer,
@@ -281,6 +239,9 @@ ul li {
     .preamble {
         margin-top: 130px;
     }
+    /* Je bouge un peu les images quand elles sont upscale pour qu'elles
+       ne dépassent pas de la page */
+
     .extra1:hover {
         left: 120px;
     }
@@ -291,7 +252,12 @@ ul li {
         right: 120px;
     }
 }
+/* Pour haute résolution: 1136px et plus - 2 et 4 colonnes*/
+
 @media (min-width: 1136px) {
+    /* On change la grosseur des divs pour prendre avantage des
+     écrans plus larges */
+
     .intro div {
         width: 40%;
         margin-top: 120px;
@@ -300,13 +266,15 @@ ul li {
         flex-wrap: wrap;
         flex-flow: row wrap;
         justify-content: space-between;
-        ;
     }
+    /* Justify content pour que les cartes soit alignées */
+
     .main div {
         width: 22%;
         justify-content: space-between;
-        ;
     }
+    /* Flex, pour avoir plusieurs colonnes */
+
     .main {
         flex-wrap: wrap;
         flex-flow: row wrap;
@@ -314,6 +282,8 @@ ul li {
         flex: 1;
         flex-grow: 1;
     }
+    /* Change le footer pour qu'il soit fixed */
+
     footer {
         float: right;
         position: fixed;
@@ -325,6 +295,8 @@ ul li {
     .preamble h3 {
         padding-bottom: 10%;
     }
+    /* Sidebar qui en fait devient une espèce de nav bar fixed */
+
     .sidebar {
         width: 70%;
         position: fixed;
@@ -333,23 +305,18 @@ ul li {
         z-index: 99;
         margin-bottom: 0px;
     }
+    /* Arrange le comportement des listes, display plusieurs sur une ligne*/
+
     ul {
         float: right;
-        clear: left;
         display: inline;
     }
-    li {
+    ul li {
+        list-style: square;
         float: right;
-        clear: left;
-        margin-bottom: 0px;
         display: inline-block;
         margin-left: 10px;
     }
-    /*.design-selection h3 {
-	background-size: 9.8%;
-	padding-bottom: 80px;
-}*/
-
     .design-selection h3 {
         float: left;
         clear: left;
@@ -365,9 +332,13 @@ ul li {
     .requirements {
         margin-bottom: 100px;
     }
+    /* Petit effet sur les li */
+
     li:hover {
         transform: skewX(-15deg);
     }
+    /* Margin-bottom pour faire place au sidebar a position fixed */
+
     .extra1,
     .extra2,
     .extra3,
@@ -375,6 +346,9 @@ ul li {
     .extra5 {
         margin-bottom: 350px;
     }
+    /* Margin nulle pour éviter la page de sagrandir vers le bas
+       quand on hover et elle s'agrandit */
+
     .extra1:hover,
     .extra2:hover,
     .extra3:hover,
@@ -382,6 +356,9 @@ ul li {
     .extra5:hover {
         margin-bottom: 0px;
     }
+    /* Bouge un peu les images pour eviter d'en perdre car elles
+       dépassent de la fenêtre */
+
     .extra1:hover {
         left: 10%;
     }
